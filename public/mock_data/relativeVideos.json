@@ -1,0 +1,1106 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JTJJd8_-3gilxY6pYhzFuMdzdA4",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3C6PytdIu4q3LF2L8fBPXe2x4sc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yKItFB_HPhE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:28:53Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "OMG - NewJeans [Music Bank] | KBS WORLD TV 230127",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#NewJeans #Minji #LeeChaeMin\n\nFri 17:05 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#OMG #NewJeans\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yKItFB_HPhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yKItFB_HPhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yKItFB_HPhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yKItFB_HPhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yKItFB_HPhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:28:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YDeRnaOfTXvRy7-JMiQ7FBLfz_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Km71Rr9K-Bw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T05:55:42Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "NewJeans (뉴진스) 'Ditto' Performance Video",
+        "description": "NewJeans (뉴진스) 'Ditto' Performance Video\n\nProducer: MIN HEE JIN\nPerformance Video Direction: Yemin Kim\nPerformance Video Director: Jakyoung Kim\nPerformance Director: EunJu Kim, YoungHoo Kim\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#NewJeans_of_Winter\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T05:55:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SoRVSBYEr2qBypZBeWdkVbBOm1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pSUydWEqKwE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-16T01:33:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'Ditto' Official MV (side A)",
+        "description": "Producer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#NewJeans_of_Winter\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pSUydWEqKwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pSUydWEqKwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pSUydWEqKwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pSUydWEqKwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pSUydWEqKwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-16T01:33:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P1CmvhZD6UKcMpLSTVJUHSGHeGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TpKZI6Jdci4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:29:07Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "Sugar Rush Ride - TOMORROW X TOGETHER [뮤직뱅크/Music Bank] | KBS 230127 방송",
+        "description": "Sugar Rush Ride - TOMORROW X TOGETHER\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#SugarRushRide #가요 #가수 #음악 #케이팝 #TOMORROWXTOGETHER #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TpKZI6Jdci4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:29:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3qkFjBN5rP_TMFYz7ivA9YTdeUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wd1Iz6j4WC0"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-20T23:51:51Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Versace on the Floor (Billboard Music Awards 2017) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"Versace on the Floor\" from the album '24K Magic' at the 2017 Billboard Music Awards. \n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more ➤ https://Atlantic.lnk.to/BMsubscribe\n\nWatch All Of Bruno Mars’ Official Music Videos ➤ https://bit.ly/2U7I3mi\n\nSee Bruno Mars on tour ➤ Visit http://brunomars.com/tour for dates and more info.\n\nGet Bruno Mars merchandise ➤ https://brunom.rs/brunomarsstore\n\nFollow Bruno Mars:\nhttp://www.brunomars.com\nhttp://www.instagram.com/brunomars\nhttp://www.twitter.com/brunomars\nhttp://www.facebook.com/brunomars\n\nThe official YouTube channel of Atlantic Records artist Bruno Mars. \n \n11x GRAMMY Award winner and 27x GRAMMY Award nominee Bruno Mars is a celebrated singer, songwriter, producer, and musician with iconic hits like \"The Lazy Song\", \"That's What I Like\", \"Just The Way You Are\", \"24K Magic\", \"Locked Out Of Heaven\", and \"When I Was Your Man\". His legendary body of work also includes blockbuster albums such as Doo-Wops & Hooligans, Unorthodox Jukebox, and 24K Magic, as well as era-defining collaborations like \"Uptown Funk\" with Mark Ronson, \"Finesse\" with Cardi B, and \"Nothin' On You\" with B.o.B. Forever classic, yet supremely innovative, Bruno continues to redefine music, style, and popular culture, pushing the boundaries of pop, R&B, funk, soul, hip-hop, and dance, and remains as influential as ever.\n\n#BrunoMars #VersaceOnTheFloor #24KMagic #BillboardMusicAwards #AtlanticRecords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-20T23:51:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jr41CkERnM7RZNcCPZAJbHRcJO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UJmirzDr3n8"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-29T07:01:34Z",
+        "channelId": "UCAqlxq4Bs9PjI86M9lM18TA",
+        "title": "SPECIAL STAGE 2 - Hush (JOY + TZUYU + YeonWoo + Mijoo + Sowon + JIHO) [2018 KBS Song Festival]",
+        "description": "Full episodes can be found on KOCOWA 👀 \nWatch Full Episodes on the Web ▶https://bit.ly/2R1jdoj\nWant to watch on your phone? Install our app ▶https://kocowa.onelink.me/bhfW/9d7289a3\n\nOur goal is to provide content that are worth your time. \nConnect with KOCOWA on SNS to interact with us!\nLike KOCOWA's Facebook page https://www.facebook.com/kocowa/\nFollow KOCOWA's Instagram https://www.instagram.com/kocowa.official/\nFollow KOCOWA's Twitter https://twitter.com/kocowa_official\n\nAbout KOCOWA:\nKOCOWA is a global content streaming service where people discover, watch, and fall in love with Korean content. Our service covers almost every K-drama, K-variety, and K-pop show on demand with professional subtitles in full HD for international ‘Hallyu’ fans in response to the increase in global popularity of Korean culture. New content will be added to our website 6 hours after it airs in Korea.\nKOCOWA is powered by KCP, which is the official content distributor of three major Korean broadcaster companies (KBS, MBC, SBS) and many other partners in Korea.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJmirzDr3n8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJmirzDr3n8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJmirzDr3n8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UJmirzDr3n8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UJmirzDr3n8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KOCOWA TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-29T07:01:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kg1uswRV4O8RneQqbA-R1my9RdA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f-S7uYpncJ4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:45:52Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "(Interview) Interview with TOMORROW X TOGETHER トゥモローバイトゥギャザー [Music Bank] | KBS WORLD TV 230127",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#NewJeans #Minji #LeeChaeMin\n\nFri 17:05 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#DevilbytheWindow #TOMORROWXTOGETHER #トゥモローバイトゥギャザー #TXT\n#SugarRushRide #TOMORROWXTOGETHER #トゥモローバイトゥギャザー #TXT\n\n#TXT #TOMORROWXTOGETHER #투모로우바이투게더 #トゥモローバイトゥギャザー\n#수빈 #スビンです #SOOBIN #연준 #ヨンジュンです #YEONJUN #범규 #ボムギュです。#BEOMGYU #태현 #テヒョンです。#TAEHYUN #휴닝카이 #ヒュニンカイ #HUENINGKAI\n\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f-S7uYpncJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f-S7uYpncJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f-S7uYpncJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f-S7uYpncJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f-S7uYpncJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:45:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HusJc_Ha8tEaK20Hd2PUC6pt43U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S4UEJePR0UE"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-24T04:28:46Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.2)",
+        "description": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.2)\n\nProducer: MIN HEE JIN\nMusic Video Director: Dongle Shin\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\n\n#NewJeans #뉴진스\n#HypeBoy #NewJeans_HypeBoy\n#NewJeans_1st_EP #WeareNewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-24T04:28:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hKUqkbI1V974F2jp4s-2ubR_MhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mtZbPDXH1dI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-24T10:32:14Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Candy In My Ears - Brother and Sister(MOON BIN X Moon Sua) [Music Bank] | KBS WORLD TV 220624",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#Wonyoung #Sunghoon\n\nFri 17:00 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#CandyInMyEars #BaekZYoung #BrotherandSister #MOONBIN #MoonSua\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : http://bit.ly/1NOZFKr\nIOS Download : http://apple.co/1NktctW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mtZbPDXH1dI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mtZbPDXH1dI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mtZbPDXH1dI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mtZbPDXH1dI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mtZbPDXH1dI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-24T10:32:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CMDu2jcX9DJlldPIxdWhjjATlOM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t5gailJ3XyU"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-19T05:19:22Z",
+        "channelId": "UCnUAyD4t2LkvW68YrDh7fDg",
+        "title": "[PICK NMIXX] JYP COVER LIVE",
+        "description": "[PICK NMIXX] JYP COVER LIVE\n\nNMIXX Official YouTube ▶ https://www.youtube.com/c/NMIXXOfficial\nNMIXX Official Twitter ▶ https://twitter.com/NMIXX_official\nNMIXX Official Instagram ▶ https://www.instagram.com/nmixx_official/\nNMIXX Official Facebook ▶ https://www.facebook.com/NMIXXOfficial/\nNMIXX Official Weibo ▶ https://weibo.com/NMIXXOfficial\nNMIXX Official Website ▶ https://nmixx.jype.com/\nNMIXX Official Fan's ▶ https://fans.jype.com/nmixx\nNMIXX Official V LIVE ▶ https://www.vlive.tv/channel/81BFAF\nNMIXX Official TikTok ▶ www.tiktok.com/@nmixx_official\n\nⓒ 2022 JYP Entertainment. All Rights Reserved\n\n#NMIXX #엔믹스\n#PICK_NMIXX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5gailJ3XyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5gailJ3XyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5gailJ3XyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t5gailJ3XyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t5gailJ3XyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NMIXX",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-19T05:19:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NwSFl4ONyuuFIT-ucpV7M3_v3lI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P9tKTxbgdkk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-26T17:48:14Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "TXT (투모로우바이투게더) 'Sugar Rush Ride' Official MV",
+        "description": "TXT (투모로우바이투게더) 'Sugar Rush Ride' Official MV\n\nCredits:\nDirected by STUDIO SACCHARIN\n\n[SACCAHRIN]\nDirector : KWON YONG SOO\nProducer: YU JUN YOUNG\nAssistant Director : YOO WON SIK, SON SEO YOUNG\nEditor : GWON HEE GYEONG\nAssistant Editor : KIM CHAE HYUN\n\n[WASSUB]\nProducer : LEE SUB (WASSUB), KWAK SO MANG\n\nLocal production : BALI PROD\n\nDOP : LIM CHI HOON\n1ST  : PARK HYUN JUN\n2ND : KIM KWANG MO\nDATA MANAGER : HO JEONG PIL\n3RD : PARK GA EUL\n\nGaffer : KWON HOON HO\n1ST : KIM DAE JIN\n2ND : KANG BYUNG GOO\n3RD : KIM MIN SEO\n4TH : NOH HYUNG WOO\n4TH : HAN JAE YOUNG\n\nJimmy Jib | LEE DONG JIN\n1ST : LEE JI YONG\n2ND : YOO JEONG HYUN\n3RD : JUNG SUNG EUM\n\nArtdirector : PARK CHUL YOUNG (crois.sance)\nArtteam leader : JUNG HEE\nArt team : \nKIM JONG MIN \nLEE J D\nEOM EUN IE\nKIM SUNG HAE \nLEE SOO JIN\n\nDI : LUCID COLOUR\nColorist : KWAK HAE WON\nDI Crew : LEE SEON YOUNG, PARK SU JEONG, KIM DA SEUL, JO DONG WOO\nDI producer : KIM ONEW\n\nCG/VFX : @memudworks\n\nYANG SI WOOK, PARK KUN WOO, JO MIN JOO\n\nConnect with TOMORROW X TOGETHER:\nhttps://ibighit.com/txt\nhttps://twitter.com/TXT_bighit\nhttps://twitter.com/TXT_members\nhttps://www.facebook.com/TXT.bighit\nhttps://www.instagram.com/txt_bighit\nhttps://www.tiktok.com/@txt.bighitent \nhttps://weverse.io/txt\nhttps://www.weibo.com/TXTbighit\nhttps://space.bilibili.com/3493085912763265/\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n#TheNameChapter #TEMPTATION #SugarRushRide #투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-26T17:48:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HjuwJEsYM_sA4QdfyDf0Uggbkzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OPj0nkA0zrA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T09:51:34Z",
+        "channelId": "UCu9r1N6nrCh1B4xGOYBt6JA",
+        "title": "[Full Songs] NewJeans (뉴진스) All Songs Playlist",
+        "description": "[Full Songs] NewJeans (뉴진스) All Songs Playlist\n\nTrack list :\n\n1.OMG\n2.Ditto\n3.Attention\n4.Hype Boy \n5.Cookie\n6.Hurt\n....................... \n• No copyright infringement intended \n• All rights reserved to the original owner. \n...................... \n\nTags \n#newjeans #뉴진스 #OMG #ditto #attention #hypeboy #hurt #cookie #fullalbum #playlist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OPj0nkA0zrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OPj0nkA0zrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OPj0nkA0zrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OPj0nkA0zrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OPj0nkA0zrA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KMUSIC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T09:51:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UGyxotPfsTQj59whVENnZ2OxPyY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4CDhpvmBz9Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-27T08:58:10Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "LE SSERAFIM(르세라핌) - FEARLESS (Music Bank) | KBS WORLD TV 220527",
+        "description": "#FEARLESS, #LESSERAFIM, #르세라핌, #ル セラフィム\n#SAKURA, #KAZUHA, #KIMCHAEWON, #HUHYUNJIN, #KIMGARAM, #HONGEUNCHAE\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : http://bit.ly/1NOZFKr\nIOS Download : http://apple.co/1NktctW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CDhpvmBz9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CDhpvmBz9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CDhpvmBz9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CDhpvmBz9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CDhpvmBz9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-27T08:58:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wSwB-ndYD9wVazPwSV8NeOd99fg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J1nBrd_CHYU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:14:12Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Devil by the Window - TOMORROW X TOGETHER トゥモローバイトゥギャザー [Music Bank] | KBS WORLD TV 230127",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#NewJeans #Minji #LeeChaeMin\n\nFri 17:05 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#DevilbytheWindow #TOMORROWXTOGETHER #トゥモローバイトゥギャザー #TXT\n\n#TXT #TOMORROWXTOGETHER #투모로우바이투게더 #トゥモローバイトゥギャザー\n#수빈 #スビンです #SOOBIN #연준 #ヨンジュンです #YEONJUN #범규 #ボムギュです。#BEOMGYU #태현 #テヒョンです。#TAEHYUN #휴닝카이 #ヒュニンカイ #HUENINGKAI\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J1nBrd_CHYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J1nBrd_CHYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J1nBrd_CHYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J1nBrd_CHYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J1nBrd_CHYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:14:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s1yTDH6HWe0Id8fFW6KAC9oE8zQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IZ1cHTo0eiA"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T20:47:19Z",
+        "channelId": "UChYac7BwqtY2d2MznVFVHvg",
+        "title": "Lovesong Medley | Sweetnotes Live",
+        "description": "Lovesong Medley | Sweetnotes Live\n#oldies #duetsong #coverband #coupleband\nThanks to Ibarra Music sa Minus one.\n\n\nFacebook Page:\nhttps://www.facebook.com/SweetnotesDuo\n\n\nFAIR-USE COPYRIGHT DISCLAIMER\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZ1cHTo0eiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZ1cHTo0eiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZ1cHTo0eiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IZ1cHTo0eiA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IZ1cHTo0eiA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sweetnotes Music Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T20:47:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VozYs58PAUwlJBtNYuDZKfzvk2U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oNiiyPAtag8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T12:01:02Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "[Titlelist #2] Girl Group debuted in 2022 | Title Music Collection💜",
+        "description": "#Girlgroup #debut #Titlelist\n\n#LE_SSERAFIM  #ル_セラフィム #Kep1er #ケプラー #NMIXX #エンミックス\n#NewJeans #ニュージーンズ #CLASS:y\n\n✔️ Check title music list😁\n0:00 ANTIFRAGILE [LE SSERAFIM] | 221028 Music Bank\n3:35 Tick Tick Boom [CLASS:y] | 221028 Music Bank\n6:49 We Fresh [Kep1er] | 221021 Music Bank\n10:16 DICE [NMIXX] | 220923 Music Bank\n13:22 Attention [NewJeans] | 220805 Music Bank\n17:11 Hype Boy [NewJeans] | 220812 Music Bank\n20:18 CLASSY [CLASS:y] | 220701 Music Bank\n23:08 Up! [Kep1er] | 220701 Music Bank\n26:33 SHUT DOWN [CLASS:y] | 220513 Music Bank\n30:08 FEARLESS [LE SSERAFIM] | 220624 Music Bank\n33:02 O.O [NMIXX] | 220311 Music Bank\n36:03 WA DA DA [Kep1er] | 220114 Music Bank\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oNiiyPAtag8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oNiiyPAtag8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oNiiyPAtag8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oNiiyPAtag8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oNiiyPAtag8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T12:01:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qrJoeVhdttHPdZktmVDPbUdI8sE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7w-hCKWzJZE"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T09:32:26Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Nxde - (G)I-DLE ジーアイドゥル [Music Bank] | KBS WORLD TV 221028",
+        "description": "#GIDLE #ジーアイドゥル #Nxde\n\n(G)I-DLE is a Kpop girl group formed by Cube Entertainment in 2018. The group consists of five members: Miyeon, Minnie, Soyeon, Yuqi and Shuhua. The group debuted on May 2, 2018, with the single \"LATATA\" from their first extended play [I Am]. On July 31, 2019, the group debuted in Japan under U-Cube[3] with \"LATATA\".\n#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#Wonyoung #LeeChaeMin\n\nFri 17:10 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#Nxde #(G)I-DLE\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7w-hCKWzJZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7w-hCKWzJZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7w-hCKWzJZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7w-hCKWzJZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7w-hCKWzJZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T09:32:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G88sZDtTReR0gxlb5kXoY4q-Xkk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6bVUjsUi9sw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:39:12Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230127 방송",
+        "description": "OMG - 뉴진스(NewJeans)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#OMG #가요 #가수 #음악 #케이팝 #뉴진스 #NewJeans #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:39:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EfUzj8HOzgtGD8NeLPAO5WENTfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pg_G7WztJvQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-08T09:09:53Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Future Perfect (Pass the MIC) - ENHYPEN [Music Bank] | KBS WORLD TV 220708",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n\n#Wonyoung #Sunghoon\n\n\nFri 17:00 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n\n#FuturePerfect #ENHYPEN\n\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : http://bit.ly/1NOZFKr\nIOS Download : http://apple.co/1NktctW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pg_G7WztJvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pg_G7WztJvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pg_G7WztJvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pg_G7WztJvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pg_G7WztJvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-08T09:09:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Vn3s-SPIhsLGGAElAgVOSoUV_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sLqOreM5-0I"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-04T17:31:22Z",
+        "channelId": "UCSWwb_YyNB8vuC1VDcfPPaQ",
+        "title": "AGT Winner Darci Lynne All Performances On America's Got Talent EVER!",
+        "description": "AGT Winner Darci Lynne All Performances On @AGT  EVER!\n\n1. Audition - 0:05\n2. Live Shows - 4:19\n3. Semifinals - 8:53\n4. Finals - 13:52\n5. Finale - 18:49\n6. AGT Champions Audition - 21:57\n7. AGT Champions Finals - 26:38\n8. AGT Champions Finale - 30:57\n9. AGT 2019 Guest Performance - 35:46\n10. AGT 2020 Guest Performance - 39:08\n\n#AGT #AmericasGotTalent #TalentRecap\n\nFor more HD videos, news, analysis and recaps of America's Got Talent – please subscribe & follow Talent Recap:\n\nhttps://talentrecap.com/\n\nFor more HD full episode videos, news and recaps of your favorite talent show – please subscribe & follow\n\nTALENT RECAP ON SOCIAL:\nYouTube: https://goo.gl/6pybnw\nLike: https://www.facebook.com/talentrecap/\nFollow: https://twitter.com/TalentRecap\nInstagram: https://www.instagram.com/talentrecap/\n\nABOUT TALENT RECAP \nTalent Recap is the #1 independent website which is exclusively dedicated to the fans of the most popular talent shows around the world. As passionate fans of these shows, we provide news, analysis and fan engagement on America’s Got Talent, Britain’s Got Talent, The Voice, The X Factor, American Idol, The Four, The Masked Singer, The World’s Best and its contestants.\n\n\nAmerica's Got Talent 2020\nhttps://goo.gl/e12UJ8\n\nAmerica's Got Talent News & Recaps\nhttps://goo.gl/e12UJ8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sLqOreM5-0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sLqOreM5-0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sLqOreM5-0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sLqOreM5-0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sLqOreM5-0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Talent Recap",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-04T17:31:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zs1Sr07h4FucueNqf8xbbaeECnA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-oj-9QqpQ4s"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T01:57:24Z",
+        "channelId": "UC12HMtO5MYph9dCZZ7yygng",
+        "title": "XG - LEFT RIGHT (XG SHOOTING STAR LIVE STAGE)",
+        "description": "XG\n3rd Single💫SHOOTING STAR💫\n2023.01.25 Wed  \nDIGITAL/CD BOX\nhttps://xgalx.com/xg/discography/\n\nTracklist:\n1. SHOOTING STAR\n2. LEFT RIGHT\n\nStreaming/Download \n🎧https://XG.lnk.to/_SHOOTING_STAR\n\n‘SHOOTING STAR’ Music Video\n🎥https://youtu.be/L7spCJxloLY\n\nCD BOX\n💿https://XG.lnk.to/SHOOTINGSTAR_CDBOX\n\nFollow XG:\nInstagram: https://instagram.com/xgofficial\nYouTube: https://www.youtube.com/@xg_official\nTikTok: https://www.tiktok.com/@xg.official\nTwitter: https://twitter.com/XGOfficial_\nFacebook: https://www.facebook.com/XGOfficial\nOfficial Website: https://xgalx.com/xg/\nWeverse: https://www.weverse.io/xg/artist\nWeibo: https://weibo.com/u/7745703614\nXG OFFICIAL FANCLUB \"ALPHAZ”: https://xg.pasch.fan/\n\n#XG #SHOOTINGSTAR\n#XG_SHOOTINGSTAR\n#XGALX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oj-9QqpQ4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oj-9QqpQ4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oj-9QqpQ4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-oj-9QqpQ4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-oj-9QqpQ4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T01:57:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SfNVYCDW9TvhSJzYXeF5EhiVzt0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "knRVMlRu1xU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-19T07:40:07Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "[Making Jeans] NewJeans (뉴진스) 'OMG' Dance Practice Behind",
+        "description": "[Making Jeans] NewJeans (뉴진스) 'OMG' Dance Practice Behind\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 \n#MakingJeans #NewJeans_Behind\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knRVMlRu1xU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knRVMlRu1xU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knRVMlRu1xU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/knRVMlRu1xU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/knRVMlRu1xU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-19T07:40:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R7wHHT0wfxmocxlIXAGJzCMrCME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rMvkMwe4N8E"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:45:13Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "(Interview) Winner's Ceremony - NewJeans 🏆 [Music Bank] | KBS WORLD TV 230127",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#NewJeans #Minji #LeeChaeMin\n\nFri 17:05 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#Ditto #OMG #NewJeans\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMvkMwe4N8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMvkMwe4N8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMvkMwe4N8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rMvkMwe4N8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rMvkMwe4N8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:45:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-hpZsHIo471XxEFPGsctm_WYmuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vp8BiiNQ8co"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:18:31Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Sugar Rush Ride - TOMORROW X TOGETHER トゥモローバイトゥギャザー [Music Bank] | KBS WORLD TV 230127",
+        "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#NewJeans #Minji #LeeChaeMin\n\nFri 17:05 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#SugarRushRide #TOMORROWXTOGETHER #トゥモローバイトゥギャザー #TXT\n\n#TXT #TOMORROWXTOGETHER #투모로우바이투게더 #トゥモローバイトゥギャザー\n#수빈 #スビンです #SOOBIN #연준 #ヨンジュンです #YEONJUN #범규 #ボムギュです。#BEOMGYU #태현 #テヒョンです。#TAEHYUN #휴닝카이 #ヒュニンカイ #HUENINGKAI\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vp8BiiNQ8co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vp8BiiNQ8co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vp8BiiNQ8co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vp8BiiNQ8co/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vp8BiiNQ8co/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:18:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wG-B1Y-dqie5Sc9wYGRqHiuqy-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YvmPG9Vb4fE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-24T03:58:43Z",
+        "channelId": "UCRRDCWQZxonT5er3Qss5SJA",
+        "title": "NewJeans Ditto Easy Lyrics",
+        "description": "NewJeans Ditto Easy Lyrics \n\nLike and subscribe!\n\nI really hope that you enjoy the video.\n\nNEWJEANS\n\nDitto official MV :\nhttps://youtu.be/pSUydWEqKwE\n\nFollow NewJeans\nhttps://instagram.com/newjeans_official?igshid=YmMyMTA2M2Y=\n\n\nNo copyright infringement intended\nThe song and the pictures are all belongs to the rightful owner.\n\n\n#newjeans  #ditto #lirik",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YvmPG9Vb4fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YvmPG9Vb4fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YvmPG9Vb4fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YvmPG9Vb4fE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YvmPG9Vb4fE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lee Dae hwa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-24T03:58:43Z"
+      }
+    }
+  ]
+}
