@@ -1,19 +1,29 @@
 import { useEffect, useState } from "react";
-import { YoutubeAPI } from "../api/youtube";
-import { SearchVideoItems } from "../models/models";
+import { useParams } from "react-router-dom";
+import { useYoutubeContext } from "../context/youtubeContext";
+import { VideoItems } from "../models/models";
 
 export default function Videos() {
-  const [videoItems, setVideoItems] = useState<SearchVideoItems | undefined>();
+  const { keyword } = useParams();
+  const [videoItems, setVideoItems] = useState<VideoItems | undefined>();
+  const youtube = useYoutubeContext();
 
   useEffect(() => {
-    const api = new YoutubeAPI();
-
-    api
-      .getSearchVideos("aa")
-      .then((videoItems) => {
-        setVideoItems(videoItems);
-      })
-      .catch((e) => console.log(e));
+    if (keyword) {
+      youtube
+        .getSearchVideos(keyword)
+        .then((videoItems) => {
+          setVideoItems(videoItems);
+        })
+        .catch((e) => console.log(e));
+    } else {
+      youtube
+        .getHotVideos()
+        .then((videoItems) => {
+          setVideoItems(videoItems);
+        })
+        .catch((e) => console.log(e));
+    }
   }, []);
 
   if (!videoItems) {
@@ -23,11 +33,9 @@ export default function Videos() {
   return (
     <ul>
       {videoItems.items.map((item) => (
-        <li key={item.id.videoId}>
+        <li key={item.id}>
           <img src={item.snippet.thumbnails.medium.url} alt="" />
-          <p>Video Id: {item.id.videoId}</p>
-          <p>PublishedAt: {item.snippet.publishedAt}</p>
-          <p>Channel Title: {item.snippet.channelTitle}</p>
+          <p>Video Id: {item.id}</p>
           <p>Title: {item.snippet.title}</p>
         </li>
       ))}

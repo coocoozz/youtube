@@ -1,18 +1,18 @@
-import { SearchVideoItems } from "./../models/models";
+import { VideoItems, SearchVideoItems } from "./../models/models";
 import axios from "axios";
-import { HotVideoItems } from "../models/models";
 
-export class YoutubeAPI {
-  private youbueInstant;
+export class Youtube {
+  private youtube;
 
   constructor() {
-    this.youbueInstant = axios.create();
+    this.youtube = axios.create();
+    console.log("make youtube api");
   }
 
-  async getHotVideos(): Promise<HotVideoItems> {
+  async getHotVideos(): Promise<VideoItems> {
     try {
-      const { data, status } = await this.youbueInstant.get<HotVideoItems>(
-        "mock_data/hotVideos.json"
+      const { data, status } = await this.youtube.get<VideoItems>(
+        "/mock_data/hotVideos.json"
       );
 
       if (status !== 200) {
@@ -24,16 +24,20 @@ export class YoutubeAPI {
     }
   }
 
-  async getSearchVideos(keyword: string): Promise<SearchVideoItems> {
+  async getSearchVideos(keyword: string): Promise<VideoItems> {
     try {
-      const { data, status } = await this.youbueInstant.get<SearchVideoItems>(
-        "mock_data/search.json"
+      const { data, status } = await this.youtube.get<SearchVideoItems>(
+        "/mock_data/search.json"
       );
 
       if (status !== 200) {
         throw Error(`fail to get search videos. status code:${status}`);
       }
-      return data;
+
+      return {
+        ...data,
+        items: data.items.map((i) => ({ ...i, id: i.id.videoId })),
+      };
     } catch (e) {
       throw Error(`fail to get search videos. err:${e}`);
     }

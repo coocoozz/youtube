@@ -4,7 +4,7 @@ type VideoItemThumbnail = {
   height: number;
 };
 
-type HotVideoItem = {
+type VideoItem = {
   id: string;
   snippet: {
     publishedAt: string;
@@ -21,16 +21,16 @@ type HotVideoItem = {
   };
 };
 
-type SearchVideoItem = Omit<HotVideoItem, "id"> & {
+type SearchVideoItem = Omit<VideoItem, "id"> & {
   id: { kind: string; videoId: string };
-};
-
-export type HotVideoItems = {
-  nextPageToken: string;
-  items: HotVideoItem[];
 };
 
 export type SearchVideoItems = {
   nextPageToken: string;
   items: SearchVideoItem[];
+};
+
+export type VideoItems = {
+  nextPageToken: string;
+  items: VideoItem[];
 };
