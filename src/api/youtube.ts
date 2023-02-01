@@ -16,11 +16,11 @@ export class Youtube {
       );
 
       if (status !== 200) {
-        throw Error(`fail to get hot videos. status code:${status}`);
+        throw new Error(`fail to get hot videos. status code:${status}`);
       }
       return data;
     } catch (e) {
-      throw Error(`fail to get hot videos. err:${e}`);
+      throw new Error(`fail to get hot videos. err:${e}`);
     }
   }
 
@@ -31,7 +31,7 @@ export class Youtube {
       );
 
       if (status !== 200) {
-        throw Error(`fail to get search videos. status code:${status}`);
+        throw new Error(`fail to get search videos. status code:${status}`);
       }
 
       return {
@@ -39,7 +39,7 @@ export class Youtube {
         items: data.items.map((i) => ({ ...i, id: i.id.videoId })),
       };
     } catch (e) {
-      throw Error(`fail to get search videos. err:${e}`);
+      throw new Error(`fail to get search videos. err:${e}`);
     }
   }
 }

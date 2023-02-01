@@ -9,6 +9,8 @@ export default function Videos() {
   const youtube = useYoutubeContext();
 
   useEffect(() => {
+    console.log(`rendering!!!. keyword:${keyword}`);
+
     if (keyword) {
       youtube
         .getSearchVideos(keyword)
@@ -24,7 +26,7 @@ export default function Videos() {
         })
         .catch((e) => console.log(e));
     }
-  }, []);
+  }, [keyword, youtube]);
 
   if (!videoItems) {
     return <p>no items...</p>;
