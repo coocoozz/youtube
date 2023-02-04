@@ -1,10 +1,10 @@
-type VideoItemThumbnail = {
+type ThumbnailInfo = {
   url: string;
   width: number;
   height: number;
 };
 
-type VideoItem = {
+export type VideoItem = {
   id: string;
   snippet: {
     publishedAt: string;
@@ -12,12 +12,26 @@ type VideoItem = {
     title: string;
     description: string;
     thumbnails: {
-      default: VideoItemThumbnail;
-      medium: VideoItemThumbnail;
-      high: VideoItemThumbnail;
+      default: ThumbnailInfo;
+      medium: ThumbnailInfo;
+      high: ThumbnailInfo;
     };
     channelTitle: string;
     publishTime: string;
+  };
+};
+
+type ChannelItem = {
+  id: string;
+  snippet: {
+    title: string;
+    description: string;
+    publishedAt: string;
+    thumbnails: {
+      default: ThumbnailInfo;
+      medium: ThumbnailInfo;
+      high: ThumbnailInfo;
+    };
   };
 };
 
@@ -33,4 +47,13 @@ export type SearchVideoItems = {
 export type VideoItems = {
   nextPageToken: string;
   items: VideoItem[];
+};
+
+export type ChannelItems = {
+  items: ChannelItem[];
+};
+
+export type RelativeVideoItems = {
+  nextPageToken: string;
+  itmes: VideoItem[];
 };

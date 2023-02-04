@@ -1,16 +1,15 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
-import { useYoutubeContext } from "../context/youtubeContext";
+import { useNavigate, useParams } from "react-router-dom";
+import { useYoutube } from "../context/youtubeContext";
 import { VideoItems } from "../models/models";
 
 export default function Videos() {
   const { keyword } = useParams();
   const [videoItems, setVideoItems] = useState<VideoItems | undefined>();
-  const youtube = useYoutubeContext();
+  const youtube = useYoutube();
+  const navigate = useNavigate();
 
   useEffect(() => {
-    console.log(`rendering!!!. keyword:${keyword}`);
-
     if (keyword) {
       youtube
         .getSearchVideos(keyword)
@@ -33,12 +32,19 @@ export default function Videos() {
   }
 
   return (
-    <ul>
-      {videoItems.items.map((item) => (
-        <li key={item.id}>
-          <img src={item.snippet.thumbnails.medium.url} alt="" />
-          <p>Video Id: {item.id}</p>
-          <p>Title: {item.snippet.title}</p>
+    <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4">
+      {videoItems.items.map((video) => (
+        <li
+          key={video.id}
+          onClick={() => {
+            navigate(`/videos/watch/${video.id}`, {
+              state: { video },
+            });
+          }}
+        >
+          <img src={video.snippet.thumbnails.medium.url} alt="" />
+          <p>Video Id: {video.id}</p>
+          <p>Title: {video.snippet.title}</p>
         </li>
       ))}
     </ul>

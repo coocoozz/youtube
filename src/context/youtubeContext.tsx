@@ -16,7 +16,7 @@ export function YoutubeContextProvider({
   );
 }
 
-export function useYoutubeContext() {
+export function useYoutube() {
   const youtube = useContext(YoutubeContext);
   if (!youtube) {
     throw new Error(`YoutubeContext provider not found`);

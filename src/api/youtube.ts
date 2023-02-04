@@ -1,4 +1,9 @@
-import { VideoItems, SearchVideoItems } from "./../models/models";
+import {
+  VideoItems,
+  SearchVideoItems,
+  ChannelItems,
+  RelativeVideoItems,
+} from "./../models/models";
 import axios from "axios";
 
 export class Youtube {
@@ -40,6 +45,40 @@ export class Youtube {
       };
     } catch (e) {
       throw new Error(`fail to get search videos. err:${e}`);
+    }
+  }
+
+  async getChannelItems(channelId: string): Promise<ChannelItems> {
+    try {
+      const { data, status } = await this.youtube.get<ChannelItems>(
+        "/mock_data/channel.json"
+      );
+
+      if (status !== 200) {
+        throw new Error(`fail to get channel items. status code:${status}`);
+      }
+      return data;
+    } catch (e) {
+      throw new Error(`fail to get channel items. err:${e}`);
+    }
+  }
+
+  async getRelativeVideos(videoId: string): Promise<RelativeVideoItems> {
+    try {
+      const { data, status } = await this.youtube.get<SearchVideoItems>(
+        "/mock_data/relativeVideos.json"
+      );
+
+      if (status !== 200) {
+        throw new Error(`fail to get relative videos. status code:${status}`);
+      }
+
+      return {
+        ...data,
+        itmes: data.items.map((i) => ({ ...i, id: i.id.videoId })),
+      };
+    } catch (e) {
+      throw new Error(`fail to get relative videos. err:${e}`);
     }
   }
 }
