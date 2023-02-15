@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import { useLocation, useNavigate } from "react-router-dom";
+import { useLocation } from "react-router-dom";
+import VideoCard from "../components/VideoCard";
 import { useYoutube } from "../context/youtubeContext";
 import { ChannelItems, RelativeVideoItems, VideoItem } from "../models/models";
 
@@ -12,7 +13,6 @@ export default function VideoDetail() {
   >();
   const [channelItems, setChannelItems] = useState<ChannelItems | undefined>();
   const youtube = useYoutube();
-  const navigate = useNavigate();
 
   useEffect(() => {
     youtube
@@ -30,47 +30,37 @@ export default function VideoDetail() {
   window.scrollTo(0, 0);
 
   return (
-    <section className="flex flex-col lg:flex-row gap-3 ">
-      <article className="basis-3/4">
+    <section className="flex flex-col space-y-10 items-start lg:flex-row lg:space-x-3">
+      <article className="basis-4/6">
         <iframe
           title="kwang"
           id="ytplayer"
-          className="w-full"
+          className="w-full mb-5"
           height="700"
           src={`https://www.youtube.com/embed/${video.id}?fs=1&autoplay=1`}
         ></iframe>
-        <div>
-          <p>{video.snippet.title}</p>
-          <div>
+        <div className="text-white">
+          <p className="font-bold text-2xl mb-5">{video.snippet.title}</p>
+          <div className="flex justify-start items-center space-x-2 mb-5">
             {channelItems ? (
               <img
                 src={channelItems.items[0].snippet.thumbnails.default.url}
                 alt="channel img"
+                className="w-10 h-10 rounded-full"
               />
             ) : (
               <p>C</p>
             )}
-            <p>{video.snippet.channelTitle}</p>
+            <p className="font-bold text-xl">{video.snippet.channelTitle}</p>
           </div>
           <pre className="whitespace-pre-wrap">{video.snippet.description}</pre>
         </div>
       </article>
-      <article className="basis-1/4">
+      <article className="basis-2/6">
         {relVideoItems && (
-          <ul>
+          <ul className="space-y-5">
             {relVideoItems.itmes.map((video) => (
-              <li
-                key={video.id}
-                onClick={() => {
-                  navigate(`/videos/watch/${video.id}`, {
-                    state: { video },
-                  });
-                }}
-              >
-                <img src={video.snippet.thumbnails.medium.url} alt="" />
-                <p>Video Id: {video.id}</p>
-                <p>Title: {video.snippet.title}</p>
-              </li>
+              <VideoCard video={video} titleRight={true} />
             ))}
           </ul>
         )}
