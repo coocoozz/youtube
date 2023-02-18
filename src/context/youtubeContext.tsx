@@ -1,7 +1,9 @@
 import React, { createContext, useContext } from "react";
+import { MockClient } from "../api/mockClient";
+import { RealClient } from "../api/realClient";
 import { Youtube } from "../api/youtube";
 
-const youtube = new Youtube();
+const youtube = new Youtube(new RealClient());
 const YoutubeContext = createContext<Youtube | undefined>(youtube);
 
 export function YoutubeContextProvider({

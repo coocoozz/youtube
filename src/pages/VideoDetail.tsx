@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useQuery } from "react-query";
 import { useLocation } from "react-router-dom";
 import VideoCard from "../components/VideoCard";
 import { useYoutube } from "../context/youtubeContext";
@@ -8,24 +8,21 @@ type LocationState = VideoItem;
 
 export default function VideoDetail() {
   const video = useLocation().state.video as LocationState;
-  const [relVideoItems, setRelVideoItems] = useState<
-    RelativeVideoItems | undefined
-  >();
-  const [channelItems, setChannelItems] = useState<ChannelItems | undefined>();
   const youtube = useYoutube();
 
-  useEffect(() => {
-    youtube
-      .getRelativeVideos(video.id)
-      .then((v) => setRelVideoItems(v))
-      .catch((e) => console.log);
+  const { data: relVideoItems } = useQuery<RelativeVideoItems, Error>({
+    queryKey: ["relativeVideo", video.id],
+    queryFn: () => youtube.relativeVideos(video.id),
+    refetchOnWindowFocus: false,
+    staleTime: 1000 * 60,
+  });
 
-    youtube
-      .getChannelItems(video.snippet.channelId)
-      .then((v) => setChannelItems(v))
-      .catch((e) => console.log);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  const { data: channelItems } = useQuery<ChannelItems, Error>({
+    queryKey: ["channelInfo", video.snippet.channelId],
+    queryFn: () => youtube.channelInfo(video.snippet.channelId),
+    refetchOnWindowFocus: false,
+    staleTime: 1000 * 60,
+  });
 
   window.scrollTo(0, 0);
 

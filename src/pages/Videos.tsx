@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useQuery } from "react-query";
 import { useParams } from "react-router-dom";
 import VideoCard from "../components/VideoCard";
 import { useYoutube } from "../context/youtubeContext";
@@ -6,27 +6,31 @@ import { VideoItems } from "../models/models";
 
 export default function Videos() {
   const { keyword } = useParams();
-  const [videoItems, setVideoItems] = useState<VideoItems | undefined>();
   const youtube = useYoutube();
+  const {
+    data: videoItems,
+    isError,
+    error,
+    isLoading,
+  } = useQuery<VideoItems, Error>({
+    queryKey: ["videos", keyword],
+    queryFn: () => {
+      if (keyword) {
+        return youtube.searchVideos(keyword);
+      } else {
+        return youtube.mostPopularVideos();
+      }
+    },
+    refetchOnWindowFocus: false,
+    staleTime: 1000 * 60,
+  });
 
-  useEffect(() => {
-    if (keyword) {
-      youtube
-        .getSearchVideos(keyword)
-        .then((videoItems) => {
-          setVideoItems(videoItems);
-        })
-        .catch((e) => console.log(e));
-    } else {
-      youtube
-        .getHotVideos()
-        .then((videoItems) => {
-          setVideoItems(videoItems);
-        })
-        .catch((e) => console.log(e));
-    }
-  }, [keyword, youtube]);
-
+  if (isLoading) {
+    return <p>loading...</p>;
+  }
+  if (isError) {
+    return <p>{`errors occured... ${error}`}</p>;
+  }
   if (!videoItems) {
     return <p>no items...</p>;
   }
