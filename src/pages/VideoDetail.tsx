@@ -32,8 +32,7 @@ export default function VideoDetail() {
         <iframe
           title="kwang"
           id="ytplayer"
-          className="w-full mb-5"
-          height="700"
+          className="w-full sm:h-96 lg:h-[600px] mb-5"
           src={`https://www.youtube.com/embed/${video.id}?fs=1&autoplay=1`}
         ></iframe>
         <div className="text-white">
