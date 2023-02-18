@@ -1,5 +1,4 @@
 import React, { createContext, useContext } from "react";
-import { MockClient } from "../api/mockClient";
 import { RealClient } from "../api/realClient";
 import { Youtube } from "../api/youtube";
 
