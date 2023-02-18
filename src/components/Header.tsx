@@ -18,10 +18,10 @@ export default function Header() {
 
   return (
     <header className="w-full flex flex-col mb-7 text-2xl sticky top-0 z-50 bg-black">
-      <div className="w-full flex">
+      <div className="w-full flex justify-center items-center">
         <Link to="/" className="flex justify-center items-center gap-2">
-          <BsYoutube className="text-red-600" />
-          <p className="font-bold text-white">KwangTube</p>
+          <BsYoutube className="text-red-600 text-4xl" />
+          <p className="font-bold text-white w-16">광튜브</p>
         </Link>
         <form onSubmit={handleOnSubmit} className="w-full flex justify-center">
           <input
